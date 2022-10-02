@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Tanmay-Shinde
-- 📚 High School Student
+- 📚 Undergraduate Student at the University of Toronto (St George Campus)
 - 👨‍💻 Experienced Java and Python programmer
 - 🤖 Avid AI Enthusiast
 - 🌱 Currently learning Data Science, Machine Learning, and Artificial Intelligence
