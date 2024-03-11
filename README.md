@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Tanmay-Shinde
 - 📚 Undergraduate Student at the University of Toronto (St George Campus)
 - 👨‍💻 Experienced Java and Python programmer
-- 🤖 Avid AI Enthusiast
+- 🤖 Avid ML Enthusiast
 - 🌱 Currently learning Data Science, Machine Learning, and Artificial Intelligence
 - 💞️ Looking to collaborate on data analytics and ML projects to gain experience
-- 📫 How to reach me: tanmayshinde1401@gmail.com
+- 📫 How to reach me: tanmay.shinde@mail.utoronto.ca
